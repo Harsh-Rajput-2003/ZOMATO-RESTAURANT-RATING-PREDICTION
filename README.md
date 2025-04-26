@@ -1,4 +1,6 @@
 🍽️ Zomato Restaurant Rating Prediction
+
+
 "Eat well, Predict well, Live well!" ✨
 
 Zomato Restaurant Rating Prediction is an end-to-end Machine Learning web application that predicts restaurant ratings based on features like restaurant type, location, cuisines, cost for two, and more. The project is built using Python for data processing and machine learning, Flask for backend development, and HTML/CSS for the frontend, offering a smooth user experience and real-time rating predictions.
